@@ -1,0 +1,36 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'H:\\Angular2\\nodejs\\node.exe',
+1 verbose cli   'H:\\Angular2\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'types-registry' ]
+2 info using npm@5.3.0
+3 info using node@v8.4.0
+4 verbose npm-session e93ab4d2f927c355
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData error for types-registry@latest request to https://registry.npm.taobao.org/types-registry failed, reason: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443
+8 verbose type system
+9 verbose stack FetchError: request to https://registry.npm.taobao.org/types-registry failed, reason: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443
+9 verbose stack     at ClientRequest.req.on.err (H:\Angular2\nodejs\node_modules\npm\node_modules\pacote\node_modules\make-fetch-happen\node_modules\node-fetch-npm\src\index.js:68:14)
+9 verbose stack     at emitOne (events.js:115:13)
+9 verbose stack     at ClientRequest.emit (events.js:210:7)
+9 verbose stack     at TLSSocket.socketErrorListener (_http_client.js:401:9)
+9 verbose stack     at emitOne (events.js:115:13)
+9 verbose stack     at TLSSocket.emit (events.js:210:7)
+9 verbose stack     at emitErrorNT (internal/streams/destroy.js:64:8)
+9 verbose stack     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+9 verbose stack     at process._tickCallback (internal/process/next_tick.js:180:9)
+10 verbose cwd C:\Users\P0005343\AppData\Local\Microsoft\TypeScript\2.4
+11 verbose Windows_NT 6.1.7601
+12 verbose argv "H:\\Angular2\\nodejs\\node.exe" "H:\\Angular2\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "types-registry"
+13 verbose node v8.4.0
+14 verbose npm  v5.3.0
+15 error code ENOTFOUND
+16 error errno ENOTFOUND
+17 error network request to https://registry.npm.taobao.org/types-registry failed, reason: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443
+18 error network This is a problem related to network connectivity.
+18 error network In most cases you are behind a proxy or have bad network settings.
+18 error network
+18 error network If you are behind a proxy, please make sure that the
+18 error network 'proxy' config is set properly.  See: 'npm help config'
+19 verbose exit [ 1, true ]

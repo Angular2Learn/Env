@@ -1,0 +1,10 @@
+[
+	"Strict",
+	"Only load secure content",
+	"Allow insecure content",
+	"Enable loading content over http",
+	"Disable",
+	"Allow all content and script execution. Not recommended",
+	"More Information",
+	"이 작업 영역에 대해 Markdown 미리 보기의 보안 설정 선택"
+]

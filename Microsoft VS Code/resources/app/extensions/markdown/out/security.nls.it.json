@@ -1,0 +1,10 @@
+[
+	"Strict",
+	"Only load secure content",
+	"Allow insecure content",
+	"Enable loading content over http",
+	"Disable",
+	"Allow all content and script execution. Not recommended",
+	"More Information",
+	"Seleziona impostazioni di protezione per le anteprime Markdown in questa area di lavoro"
+]

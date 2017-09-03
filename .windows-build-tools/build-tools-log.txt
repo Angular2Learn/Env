@@ -1,0 +1,656 @@
+[0FE8:0E24][2017-09-03T06:31:00]i001: Burn v3.7.4906.0, Windows v6.1 (Build 7600: Service Pack 0), path: D:\Users\DongHaiyue\.windows-build-tools\BuildTools_Full.exe, cmdline: '/NoRestart /S /L "D:\Users\DongHaiyue\.windows-build-tools\build-tools-log.txt" -burn.unelevated BurnPipe.{BB28E5A4-3FB0-4CDC-B369-DABADCB39B29} {64E7D71F-0C4F-43AC-933F-7F5D3454F5C0} 5172'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'EditionDisplayName' to value 'Microsoft Visual C++ Build Tools'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'SkuSpecificHKLMHive' to value 'Software\Microsoft\VisualStudio\14.0'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'RebootRequested' to value '0'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'ExecuteSecondaryInstaller' to value '0'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'BundleProgressKey' to value 'Software\Microsoft\VisualStudio\14.0\Setup\VisualCppBuildTools\Full'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'SetupFeedKey' to value 'Software\Microsoft\VisualStudio\14.0\Setup\VisualCppBuildTools\Full'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'LicenseFwlinkId' to value '735041'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'MoreLanguageFwlinkId' to value '659020'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'VSEIPAndPrivacyFwlinkId' to value '658994'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'MinOsLevelFwlinkId' to value '659008'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'SolutionFwlinkId' to value '658995'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'HelpFwlinkId' to value '658996'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'IE10FwlinkId' to value '658998'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'Win81BlockFwlinkId' to value '658999'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'SHA256BlockFwlinkId' to value '659006'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'Win81PreRelBlockFwlinkId' to value '659000'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'UninstallMddInfoFwlinkId' to value '659002'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing numeric variable 'UpdateXmlFwlinkId' to value '659005'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'NetfxProductVersion' to value '4.5.25000'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'ProfessionalVSVersion' to value '11.0.50727'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'BaselineBundleVersion' to value '14.0.23107'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'ProductKey' to value '3NTMYRCPP3D7HMQMYJJKGJGWR'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'ProductSKU' to value ''
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'WinBlue_Desktop_KitsRootPath' to value '[ProgramFilesFolder]Windows Kits\8.1\'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'WinBlue_Common_KitsRootPath' to value '[ProgramFilesFolder]Windows Kits\8.1\'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'WinBlue_Intellisense_KitsRootPath' to value '[ProgramFilesFolder]Windows Kits\8.1\'
+[0FE8:0E24][2017-09-03T06:31:00]i000: Initializing string variable 'MbaNetfxPackageId' to value 'netfxfullredist_43;netfxfullweb'
+[0FE8:0E24][2017-09-03T06:31:01]i000: Setting string variable 'WixBundleLog' to value 'D:\Users\DongHaiyue\.windows-build-tools\build-tools-log.txt'
+[0FE8:0E24][2017-09-03T06:31:01]i000: Setting string variable 'WixBundleOriginalSource' to value 'D:\Users\DongHaiyue\.windows-build-tools\BuildTools_Full.exe'
+[0FE8:0E24][2017-09-03T06:31:01]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'D:\Users\DongHaiyue\.windows-build-tools\'
+[0FE8:0E24][2017-09-03T06:31:01]i000: Setting string variable 'WixBundleName' to value 'Microsoft Visual C++ Build Tools'
+[0FE8:0E24][2017-09-03T06:31:01]i000: Loading managed bootstrapper application.
+[0FE8:0E24][2017-09-03T06:31:03]i000: Creating BA thread to run asynchronously.
+[0FE8:10D8][2017-09-03T06:31:04]i000: Ux Started
+[0FE8:10D8][2017-09-03T06:31:07]i000: MUX:  Set Lcid=2052
+[0FE8:10D8][2017-09-03T06:31:07]i000: MUX:  Loading LocalizableStrings.xml string from 2052\LocalizableStrings.xml
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Reset Result
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Current action: Install
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'CurrentOperation' to value 'Install'
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'IsLanguagePack' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Current action: Install
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'CurrentOperation' to value 'Install'
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  New last unconfirmed source: Web
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Source confirmed
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'CurrentRepairPackage' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting numeric variable 'UpdateInModify' to value 0
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting numeric variable 'HypervisorSupported' to value 0
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting numeric variable 'HypervisorEnabled' to value 0
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Resume = None
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Restart = Never
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Relation = None
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Action = Install
+[0FE8:10D8][2017-09-03T06:31:08]i000: MUX:  Display = None
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'CustomInstallPath' to value 'D:\Program Files'
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'ExecuteSecondaryInstaller' to value '0'
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'SecondaryInstallerParameters' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'SecondaryInstallerDynamicItems' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting numeric variable 'ConnectPipeToSecondaryInstaller' to value 0
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'SecondaryInstallerPipeName' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'SecondaryInstallerPipeSecret' to value ''
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'RelationType' to value 'None'
+[0FE8:10D8][2017-09-03T06:31:08]i000: Setting string variable 'DisplayMode' to value 'None'
+[0FE8:10D8][2017-09-03T06:31:09]i000: Setting numeric variable 'NetworkAvailable' to value 1
+[0FE8:10D8][2017-09-03T06:31:09]i000: Setting string variable 'OriginalDisplayMode' to value 'None'
+[0FE8:10D8][2017-09-03T06:31:09]i000: Setting string variable 'OriginalDisplayModeSwitch' to value '/quiet'
+[0FE8:10D8][2017-09-03T06:31:09]i000: MUX:  Metrics: ShouldSendData=True
+[0FE8:10D8][2017-09-03T06:31:09]i000: Setting string variable 'InstanceSessionId' to value '36ebde7f-6b81-4efd-9681-bc41c9557a76'
+[0FE8:10D8][2017-09-03T06:31:09]i000: MUX:  Create new AI Session:36ebde7f-6b81-4efd-9681-bc41c9557a76
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  SetupAction: Install
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  ProductVersion: 14.0.25420.01
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  ProductLanguage: 1033
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  Branch: d14rel
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  OS: Windows 7 Ultimate
+[0FE8:10D8][2017-09-03T06:31:15]i000: MUX:  OSVersion: 6.1.7600.0
+[0FE8:10D8][2017-09-03T06:31:20]i000: MUX:  OSLanguage: 2052
+[0FE8:10D8][2017-09-03T06:31:20]i000: MUX:  OSArchitecture: x86
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  RecordVirtualMachineInformation version: lenovo - 20090619
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  RecordVirtualMachineInformation serialNumber: 100886040144        
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  RecordVirtualMachineInformation product: k40in      
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Ux Initialized
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Aquiring mutex 'Global\VisualCppBuildTools_Full' with a timeout of 0 ms
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Mutex 'Global\VisualCppBuildTools_Full' ownership: True
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Seen existing cache mutex 'Global\VisualCppBuildTools_Full CacheMutex': False
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Aquiring mutex 'Global\VisualCppBuildTools_Full CacheMutex' with a timeout of 60000 ms
+[0FE8:10D8][2017-09-03T06:31:22]i000: MUX:  Mutex 'Global\VisualCppBuildTools_Full CacheMutex' ownership: True
+[0FE8:10D8][2017-09-03T06:31:24]i000: MUX:  Online feed url: http://go.microsoft.com/fwlink/?LinkID=659004
+[0FE8:10D8][2017-09-03T06:31:24]i000: MUX:  Flp lang online feed uri: http://go.microsoft.com/fwlink/?LinkID=659004&clcid=0x804
+[0FE8:10D8][2017-09-03T06:31:24]i000: MUX:  Embedded feed is selected as a local feed.
+[0FE8:10D8][2017-09-03T06:31:24]i000: MUX:  Local copy of the dynamic feed is present: D:\Users\DongHaiyue\AppData\Local\Temp\{a9528995-e130-4501-ae19-bbfaddb779cc}\.ba1\Feed.xml
+[0FE8:10D8][2017-09-03T06:31:24]i000: MUX:  Feed uri to register: http://go.microsoft.com/fwlink/?LinkID=659004&clcid=0x804
+[0FE8:10D8][2017-09-03T06:31:30]i000: MUX:  After online feed and local feed comparison, the online feed: http://go.microsoft.com/fwlink/?LinkID=659004&clcid=0x804 has higher version 
+[0FE8:10D8][2017-09-03T06:31:30]i000: MUX:  Final feed location: D:\Users\DongHaiyue\AppData\Local\Temp\-700042608.xml
+[0FE8:10D8][2017-09-03T06:31:30]i000: MUX:  Feed uri to register: http://go.microsoft.com/fwlink/?LinkID=659004&clcid=0x804
+[0FE8:10D8][2017-09-03T06:31:30]i000: MUX:  Enter Run
+[0FE8:0E24][2017-09-03T06:31:30]i100: Detect begin, 78 packages
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Detection Phase
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  ---------------
+[0FE8:0E24][2017-09-03T06:31:30]i000: No products found for UpgradeCode: {C11DB535-04D8-30FD-ADB8-32F27E74F5ED}
+[0FE8:0E24][2017-09-03T06:31:30]i000: Product not found: (null)
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting version variable 'BuildTools_Core_Installed' to value '0.0.0.0'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\vs\Servicing\14.0\community'; variable = 'CommunityCheck_DetectKey'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\.NET Framework Platform\Setup\Multi-Targeting Pack\v4.6.1'; variable = 'MTPack461_InstalledRelease'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\.NET Framework Platform\Setup\Multi-Targeting Pack\v4.6.1'; variable = 'MTPack461_InstalledReleaseExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'MTPack461_InstalledReleaseExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\.NET Framework Platform\Setup\Multi-Targeting Pack\v4.6.1\1033'; variable = 'MTPackLP461_InstalledReleaseEnu'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\.NET Framework Platform\Setup\Multi-Targeting Pack\v4.6.1\1033'; variable = 'MTPackLP461_InstalledReleaseExistsEnu'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'MTPackLP461_InstalledReleaseExistsEnu' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'netfxfullredist_43_CBSValue'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'netfxfullredist_43_DetectKey'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'netfxfullredist_43_DetectKey_Exists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'netfxfullredist_43_DetectKey_Exists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'netfxfullredist_43_DetectKey_Release'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'netfxfullredist_43_DetectKey_Version'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting string variable 'netfxfullredist_43_OS_BuildNumber' to value '7600'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'NetFxFullRedist_InstalledRelease'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'; variable = 'NetFxFullRedist_InstalledReleaseExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'NetFxFullRedist_InstalledReleaseExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting string variable 'OS_BuildNumber' to value '7600'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'Software\Classes\Installer\Dependencies\Microsoft.NetFx.SDK_4.6.1'; variable = 'SDK461_InstalledVersion'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'Software\Classes\Installer\Dependencies\Microsoft.NetFx.SDK_4.6.1'; variable = 'SDK461_InstalledVersionExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'SDK461_InstalledVersionExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\MSBuild.Base'; variable = 'VC_MSBuild_Base_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_MSBuild_Base_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.Core'; variable = 'VC_Tools_Core_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_Core_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X64.ARM'; variable = 'VC_Tools_X64_ARM_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X64_ARM_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X64.Base'; variable = 'VC_Tools_X64_Base_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X64_Base_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X64.Nat'; variable = 'VC_Tools_X64_Nat_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X64_Nat_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X64.X86'; variable = 'VC_Tools_X64_X86_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X64_X86_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X86.ARM'; variable = 'VC_Tools_X86_ARM_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X86_ARM_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X86.Base'; variable = 'VC_Tools_X86_Base_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X86_Base_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X86.Nat'; variable = 'VC_Tools_X86_Nat_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X86_Nat_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\Tools.X86.X64'; variable = 'VC_Tools_X86_X64_DetectKeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VC_Tools_X86_X64_DetectKeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\x64'; variable = 'VCRedist_D14x64_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VCRedist_D14x64_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\x64'; variable = 'VCRedist_D14x64_KeyValue'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\x86'; variable = 'VCRedist_D14x86_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'VCRedist_D14x86_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\x86'; variable = 'VCRedist_D14x86_KeyValue'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\winexpress\Servicing\14.0\coremsi'; variable = 'VSWinExpress_DetectKey'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\DevDiv\wdexpress\Servicing\14.0\coremsi'; variable = 'WDExpress_DetectKey'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'Software\Classes\Installer\Dependencies\Microsoft.Windows.UniversalCRTExtensionSDK.x86.10.10150'; variable = 'Win10_Universal_CRT_SDK_Extension_SDK_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'Win10_Universal_CRT_SDK_Extension_SDK_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'Software\Classes\Installer\Dependencies\Microsoft.Windows.UniversalCRTHeadersLibrariesandSources.x86.10.10150'; variable = 'Win10_Universal_CRT_SDK_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'Win10_Universal_CRT_SDK_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\Windows Kits\Installed Roots'; variable = 'WinBlue_Common_KitsRoot_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'WinBlue_Common_KitsRoot_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition 'WinBlue_Common_KitsRoot_KeyExists' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\Windows Kits\Installed Roots'; variable = 'WinBlue_Desktop_KitsRoot_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'WinBlue_Desktop_KitsRoot_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition 'WinBlue_Desktop_KitsRoot_KeyExists' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\Windows Kits\Installed Roots'; variable = 'WinBlue_Intellisense_KitsRoot_KeyExists'
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting numeric variable 'WinBlue_Intellisense_KitsRoot_KeyExists' to value 0
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition 'WinBlue_Intellisense_KitsRoot_KeyExists' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: No products found for UpgradeCode: {AF92FD26-3AEA-32CF-B707-CCC27C56DB75}
+[0FE8:0E24][2017-09-03T06:31:30]i000: Product not found: (null)
+[0FE8:0E24][2017-09-03T06:31:30]i000: Setting version variable 'BuildTools_CoreRes_Installed' to value '0.0.0.0'
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Msi_BuildTools_MSBuild_amd64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Msi_BuildTools_MSBuild_Res_amd64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Msi_BuildTools_MSBuild_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Msi_BuildTools_MSBuild_Res_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition '(VCRedist_D14x86_KeyExists AND VCRedist_D14x86_KeyValue >= "v14.0.24210.00")' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VCRedistD14x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition '(VCRedist_D14x64_KeyExists AND VCRedist_D14x64_KeyValue >= "v14.0.24210.00")' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VCRedistD14x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: vcRuntimeDebugD14_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: vcRuntimeDebugD14_x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_ARM to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_Base to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_Nat to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_X86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_ARM to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_Base to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_Nat to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_X64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_ARM_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_Base_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_Nat_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X64_X86_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_ARM_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_Base_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_Nat_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_X86_X64_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_Core to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_Tools_Core_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_Headers to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_Source to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_X86_Desktop to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_X86_Store to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_X64_Desktop to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_X64_Store to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_ARM_Desktop to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_ARM_Store to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_Redist_X86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_Redist_X64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_CRT_Redist_ARM to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MSBuild_ARM to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MSBuild_Base to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MSBuild_X64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MSBuild_X86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MSBuild_Base_Res to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Win10_Universal_CRT_SDK_VSU to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: Win10_Universal_CRT_SDK_Extension_SDK_VSU to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_Desktop to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_x86_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_DX_Redist_x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDKDXRem_x64_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_DX_Redist_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDKDXRem_x86_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_MetroSDK to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDKStore_x86_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_Metro_DX_Redist_x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDKStoreDXRem_x64_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_Metro_DX_Redist_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDKStoreDXRem_x86_Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_App_Cert_Kit_x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_AppCertKitx64x86Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_App_Cert_Kit_Native_x64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_AppCertKitx64Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_App_Cert_Kit_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_AppCertKitx86x86Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_SDK_App_Cert_Kit_Native_x86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_AppCertKitx86Patch to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: WinBlue_Runtime_Intellisense to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_ATL_ARM to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_ATL_Headers to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_ATL_Source to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_ATL_X64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_ATL_X86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MFC_Headers to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MFC_Source to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MFC_X86 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MFC_X64 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VC_MFC_MBCS to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i052: Condition '(NetFxFullRedist_InstalledReleaseExists AND NetFxFullRedist_InstalledRelease >= 394271) AND (MTPack461_InstalledReleaseExists AND MTPack461_InstalledRelease >= 394271) AND (MTPackLP461_InstalledReleaseExistsEnu AND MTPackLP461_InstalledReleaseEnu >= 394271) AND (SDK461_InstalledVersionExists AND SDK461_InstalledVersion >= v4.6.01055)' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: netfxfullredist_43 to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VisualCppBuildTools_Core to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Adding package: VSSecondaryInstaller_box to package detect list
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Reset Result
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Msi_BuildTools_MSBuild_amd64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Msi_BuildTools_MSBuild_Res_amd64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Msi_BuildTools_MSBuild_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Msi_BuildTools_MSBuild_Res_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VCRedistD14x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VCRedistD14x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: vcRuntimeDebugD14_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: vcRuntimeDebugD14_x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_ARM, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_Base, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_Nat, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_X86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_ARM, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_Base, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_Nat, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_X64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_ARM_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_Base_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_Nat_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X64_X86_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_ARM_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_Base_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_Nat_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_X86_X64_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_Core, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_Tools_Core_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_Headers, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_Source, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_X86_Desktop, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_X86_Store, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_X64_Desktop, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_X64_Store, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_ARM_Desktop, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_ARM_Store, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_Redist_X86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_Redist_X64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_CRT_Redist_ARM, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MSBuild_ARM, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MSBuild_Base, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MSBuild_X64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MSBuild_X86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MSBuild_Base_Res, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Win10_Universal_CRT_SDK_VSU, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: Win10_Universal_CRT_SDK_Extension_SDK_VSU, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_Desktop, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_x86_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_DX_Redist_x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDKDXRem_x64_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_DX_Redist_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDKDXRem_x86_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_MetroSDK, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDKStore_x86_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_Metro_DX_Redist_x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDKStoreDXRem_x64_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_Metro_DX_Redist_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDKStoreDXRem_x86_Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_App_Cert_Kit_x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_AppCertKitx64x86Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_App_Cert_Kit_Native_x64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_AppCertKitx64Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_App_Cert_Kit_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_AppCertKitx86x86Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_SDK_App_Cert_Kit_Native_x86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_AppCertKitx86Patch, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: WinBlue_Runtime_Intellisense, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_ATL_ARM, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_ATL_Headers, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_ATL_Source, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_ATL_X64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_ATL_X86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MFC_Headers, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MFC_Source, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MFC_X86, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MFC_X64, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VC_MFC_MBCS, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: netfxfullredist_43, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VisualCppBuildTools_Core, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i101: Detected package: VSSecondaryInstaller_box, state: Absent, cached: None
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Setup update feature is enabled. Evaluating conditions to determine whether to run setup update.
+[0FE8:0E24][2017-09-03T06:31:30]i000: MUX:  Checking http://go.microsoft.com/fwlink/?LinkID=659005 for update.
+[0FE8:0E24][2017-09-03T06:31:34]e000: MUX:  Exception: Info: Could not download update data.
+[0FE8:0E24][2017-09-03T06:31:34]e000: MUX:  WARNING: 因为安全原因，此 XML 文档中禁用 DTD。要启用 DTD 处理，将 XmlReaderSettings 上的 ProhibitDtd 属性设置为 false，并将该设置传递给 XmlReader.Create 方法。
+[0FE8:0E24][2017-09-03T06:31:35]e000: MUX:  Stack:    在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ThrowWithoutLineInfo(String res, String arg)
+   在 System.Xml.XmlTextReaderImpl.ParseDoctypeDecl()
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   在 System.Xml.XmlDocument.Load(XmlReader reader)
+   在 Microsoft.Devdiv.Bootstrapper.DownloadManager.DownloadXml(String url, Int32& returnCode)
+[0FE8:0E24][2017-09-03T06:31:35]i000: MUX:  Failed to download the update xml file from http://go.microsoft.com/fwlink/?LinkID=659005 Setup will not be updated.
+[0FE8:0E24][2017-09-03T06:31:35]i052: Condition '( (CommunityCheck_DetectKey = 1) ) AND (CurrentOperation = "Install") ' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:35]i052: Condition '((WDExpress_DetectKey = 1) ) AND (CurrentOperation = "Install")' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:35]i052: Condition '( (VSWinExpress_DetectKey = 1) ) AND (CurrentOperation = "Install")' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:35]i052: Condition '(VersionNT < v6.3) and ((not netfxfullredist_43_DetectKey_Exists) or (netfxfullredist_43_DetectKey_Version < v4.5.50709) or (netfxfullredist_43_DetectKey_Release < 378758))' evaluates to true.
+[0FE8:0E24][2017-09-03T06:31:35]i052: Condition '(VersionNT = v6.3) AND (netfxfullredist_43_DetectKey < v4.5.25000)' evaluates to false.
+[0FE8:0E24][2017-09-03T06:31:35]i000: MUX:  Stop Block: NetFXVersionBlock : 此计算机上安装的 .NET Framework 不符合最低版本要求: 4.5.1。
+[0FE8:0E24][2017-09-03T06:31:35]i000: MUX:  Stop Block: NetFXVersionBlock : 此计算机上安装的 .NET Framework 不符合最低版本要求: 4.5.1。
+[0FE8:0E24][2017-09-03T06:31:35]i000: MUX:  Hit a stop blocker, exiting now
+[0FE8:0E24][2017-09-03T06:31:35]i000: MUX:  Exit Run
+[0FE8:0E24][2017-09-03T06:31:35]i199: Detect complete, result: 0x0
+[0FE8:10D8][2017-09-03T06:31:35]i000: MUX:  Metrics: ShouldSendData=True
+[0FE8:10D8][2017-09-03T06:31:35]i000: MUX:  Permission to upload: Yes
+[0FE8:10D8][2017-09-03T06:31:35]i000: MUX:  Preparing to serialize data.
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Data serialized.
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Number of SQM File queued: 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  SQM sent: True
+[0FE8:10D8][2017-09-03T06:31:36]i000: Setting string variable 'CEIPConsent' to value ''
+[0FE8:10D8][2017-09-03T06:31:36]i000: Setting string variable 'SqmOption' to value ''
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: Configuration State
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  ----------------------------
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 426 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 8 = 31
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 596 = 5.0.0.0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 439 = VisualCppBuildTools_Full
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 457 = 14.0.25420.01
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 440 = 14.0.25420
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 573 = d14rel
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 450 = 1033
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 15 = 2
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 16 = 191
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1191 = 9
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1193 = 1024
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1194 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1189 = Pentium(R) Dual-Core CPU       T4200  @ 2.00GHz
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 3 = 2048
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 493 = 100732929
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 424 = 53288
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 453 = 6.1.7600.0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 13 = 2052
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 841 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 438 = 2
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 616 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 494 = 
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 599 = 6
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 529 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 833 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 834 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 563 = 8000000000000000
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1063 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 564 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1599 = e4fa3619-0c40-4465-99e0-00c0166f4c00
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1638 = 1
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1640 = 2147942402
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1632 = False
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 1631 = 4728
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 838 = 0000
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 500 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 979 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 437 = 1
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 824 = 0
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 823 = 2147762176
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Metrics: 434 = 20
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Removing SerializedSettings
+[0FE8:10D8][2017-09-03T06:31:36]i000: Setting string variable 'MetricsStore' to value ''
+[0FE8:10D8][2017-09-03T06:31:36]i000: Setting string variable 'LastGoodSource' to value 'Web'
+[0FE8:10D8][2017-09-03T06:31:36]i000: Setting string variable 'IsWebBundle' to value 'True'
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Ux Uninitialized
+[0FE8:10D8][2017-09-03T06:31:36]i000: MUX:  Exit with 0x80044000 (Blocked)
+[0FE8:0E24][2017-09-03T06:31:36]i500: Shutting down, exit code: 0x80044000
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: BaselineBundleVersion = 14.0.23107
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: BuildTools_Core_Installed = 0.0.0.0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: BuildTools_CoreRes_Installed = 0.0.0.0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: BundleProgressKey = Software\Microsoft\VisualStudio\14.0\Setup\VisualCppBuildTools\Full
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: CEIPConsent = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: CompatibilityMode = 1
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: ConnectPipeToSecondaryInstaller = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: CurrentOperation = Install
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: CurrentRepairPackage = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: CustomInstallPath = D:\Program Files
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: DisplayMode = None
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: EditionDisplayName = Microsoft Visual C++ Build Tools
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: ExecuteSecondaryInstaller = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: HelpFwlinkId = 658996
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: HypervisorEnabled = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: HypervisorSupported = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: IE10FwlinkId = 658998
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: InstanceSessionId = 36ebde7f-6b81-4efd-9681-bc41c9557a76
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: IsLanguagePack = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: IsWebBundle = True
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: LastGoodSource = Web
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: LicenseFwlinkId = 735041
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MbaNetfxPackageId = netfxfullredist_43;netfxfullweb
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MetricsStore = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MinOsLevelFwlinkId = 659008
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MoreLanguageFwlinkId = 659020
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MTPack461_InstalledReleaseExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: MTPackLP461_InstalledReleaseExistsEnu = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: netfxfullredist_43_DetectKey_Exists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: netfxfullredist_43_OS_BuildNumber = 7600
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: NetFxFullRedist_InstalledReleaseExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: NetfxProductVersion = 4.5.25000
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: NetworkAvailable = 1
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: NTProductType = 1
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: OriginalDisplayMode = None
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: OriginalDisplayModeSwitch = /quiet
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: OS_BuildNumber = 7600
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: ProductKey = 3NTMYRCPP3D7HMQMYJJKGJGWR
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: ProductSKU = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: ProfessionalVSVersion = 11.0.50727
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: RebootPending = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: RebootRequested = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: RelationType = None
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SDK461_InstalledVersionExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SecondaryInstallerDynamicItems = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SecondaryInstallerParameters = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SecondaryInstallerPipeName = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SecondaryInstallerPipeSecret = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SetupFeedKey = Software\Microsoft\VisualStudio\14.0\Setup\VisualCppBuildTools\Full
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SHA256BlockFwlinkId = 659006
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SkuSpecificHKLMHive = Software\Microsoft\VisualStudio\14.0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SolutionFwlinkId = 658995
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: SqmOption = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: UninstallMddInfoFwlinkId = 659002
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: UpdateInModify = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: UpdateXmlFwlinkId = 659005
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_MSBuild_Base_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_Core_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X64_ARM_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X64_Base_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X64_Nat_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X64_X86_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X86_ARM_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X86_Base_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X86_Nat_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VC_Tools_X86_X64_DetectKeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VCRedist_D14x64_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VCRedist_D14x86_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VersionMsi = 5.0.0.0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VersionNT = 6.1.0.0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: VSEIPAndPrivacyFwlinkId = 658994
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: Win10_Universal_CRT_SDK_Extension_SDK_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: Win10_Universal_CRT_SDK_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: Win81BlockFwlinkId = 658999
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: Win81PreRelBlockFwlinkId = 659000
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Common_KitsRoot_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Common_KitsRootPath = D:\Program Files\Windows Kits\8.1\
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Desktop_KitsRoot_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Desktop_KitsRootPath = D:\Program Files\Windows Kits\8.1\
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Intellisense_KitsRoot_KeyExists = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WinBlue_Intellisense_KitsRootPath = D:\Program Files\Windows Kits\8.1\
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleAction = 5
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleElevated = 1
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleInstalled = 0
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleLog = D:\Users\DongHaiyue\.windows-build-tools\build-tools-log.txt
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleManufacturer = Microsoft Corporation
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleName = Microsoft Visual C++ Build Tools
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleOriginalSource = D:\Users\DongHaiyue\.windows-build-tools\BuildTools_Full.exe
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleOriginalSourceFolder = D:\Users\DongHaiyue\.windows-build-tools\
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleProviderKey = {a9528995-e130-4501-ae19-bbfaddb779cc}
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleTag = 
+[0FE8:0E24][2017-09-03T06:31:36]i410: Variable: WixBundleVersion = 14.0.25420.1
+[0FE8:0E24][2017-09-03T06:31:37]i007: Exit code: 0x80044000, restarting: No
